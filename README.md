@@ -5,7 +5,7 @@ This portfolio presents examples of my technical editing work,
 demonstrating my approach to clarity, accuracy, consistency,
 and preservation of the author's intended meaning.
 
-My professional background combines engineering expertise
+My professional background combines an engineering degree
 with extensive experience in technical writing and editing,
 including work on large-scale engineering projects.
 
@@ -14,7 +14,7 @@ including work on large-scale engineering projects.
 ### 1. Editorial Case Study
 
 Examples of editorial revisions, supporting rationale,
-and author queries that demonstrate practical editorial judgment.
+and author queries that demonstrate practical editorial judgement.
 
 ### 2. Technical Editing Standards
 
