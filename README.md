@@ -26,4 +26,4 @@ subject-matter experts.
 
 These materials were prepared for portfolio purposes.
 They illustrate selected editing practices and do not
-reproduce proprietary project documentation.
+reproduce proprietary information.
